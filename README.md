@@ -54,9 +54,7 @@ will be moved to:
 /save/path/kimetsu_no_yaiba__katanakaji_no_satohen/Kimetsu no Yaiba - Katanakaji no Sato-Hen S01E01 Baha WEB-DL 1080p AVC AAC CHT MP4.mp4
 ```
 
+## Additional Information
 
-Additional Information
-
-To ensure that the files can still be seeded after they are renamed and relocated, the qbittorrent renameFile API is used instead of the simple mv command.
-
-script and README are written with chatgpt/github copilot.
+- To ensure that the files can still be seeded after they are renamed and relocated, the qbittorrent renameFile API is used instead of the simple mv command.
+- script and README are written with chatgpt/github copilot.
