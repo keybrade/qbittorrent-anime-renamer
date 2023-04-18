@@ -1,6 +1,6 @@
 # Anime Renamer Script
 
-The Anime Renamer Script is a shell script that facilitates the renaming and organization of anime files downloaded via qbittorrent. The script targets anime files and is designed to work with filenames that follow a specific format.
+The Anime Renamer Script is a shell script that targets anime file and is designed to work with filename that follows a specific format, the file will be renamed to a standardized format so that HD player like zidoo can scrap the nfo info more easily.
 
 ## Requirements
 
