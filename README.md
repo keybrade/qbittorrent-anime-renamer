@@ -58,3 +58,5 @@ will be moved to:
 Additional Information
 
 To ensure that the files can still be seeded after they are renamed and relocated, the qbittorrent renameFile API is used instead of the simple mv command.
+
+script and README are written with chatgpt/github copilot.
