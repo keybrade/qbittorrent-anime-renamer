@@ -30,10 +30,6 @@ The Anime Renamer Script is a shell script that facilitates the renaming and org
 
 The Script is designed to work with anime files that follow the following naming convention: 
 
-
-Naming Convention
-The Anime Renamer Script is designed to work with anime files that follow the following naming convention:
-
 ```bash
 [${subtitle group}] ${show name} ${season}${episode} ${meta}.${format}
 ```
